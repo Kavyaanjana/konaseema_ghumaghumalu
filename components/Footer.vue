@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-gray-800 text-white">
-    <div class="container-max section-padding">
+<div class="container-max py-6 px-7">
       <!-- Grid layout: 1 row, 4 columns -->
       <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
         <!-- 1. Restaurant Info -->
