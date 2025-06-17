@@ -146,7 +146,7 @@
                     />
                     <span>Plated Service</span>
                   </div>
-                  <div class="checkbox-label">
+                  <!-- <div class="checkbox-label">
                     <input
                       type="checkbox"
                       v-model="form.serviceType"
@@ -154,7 +154,7 @@
                       required
                     />
                     <span>Family Style</span>
-                  </div>
+                  </div> -->
                 </div>
               </div>
 
